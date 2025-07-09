@@ -4,9 +4,13 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  width: 100%;
+  width: 80%;
   row-gap: 3.125rem;
   column-gap: 5rem;
+}
+
+.about-img-internal{
+  max-width: 70%;
 }
 
 .about-details {
